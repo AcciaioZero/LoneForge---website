@@ -1248,7 +1248,7 @@ footer nav a {
 
 .tp-side.tp-left{
     position: absolute;
-    top: 45%;
+    top: 15%;
     transform: translateY(-50%);
     opacity: 0.85;
     pointer-events: none; /* evita che interferiscano con i click */
@@ -1256,7 +1256,7 @@ footer nav a {
 
 .tp-side.tp-right{
     position: absolute;
-    top: 100%;
+    top: 70%;
     transform: translateY(-50%);
     pointer-events: none; /* evita che interferiscano con i click */
 }
@@ -1275,12 +1275,12 @@ footer nav a {
 
 /* Left image */
 .tp-left {
-    left: 50px; /* regola la distanza dal contenuto */
+    left: -100px; /* regola la distanza dal contenuto */
 }
 
 /* Right image */
 .tp-right {
-    right: 50px;
+    right: -100px;
 }
 
 /* MOBILE: hide side images */
