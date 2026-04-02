@@ -1275,12 +1275,12 @@ footer nav a {
 
 /* Left image */
 .tp-left {
-    left: -100px; /* regola la distanza dal contenuto */
+    left: -300px; /* regola la distanza dal contenuto */
 }
 
 /* Right image */
 .tp-right {
-    right: -100px;
+    right: -300px;
 }
 
 /* MOBILE: hide side images */
