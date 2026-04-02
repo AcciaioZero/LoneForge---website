@@ -1,6 +1,6 @@
 #  LoneForge — Official Website
 
-Welcome to the repository for the **official LoneForge website**, the public-facing hub for the Solo RPG Engine project.
+Welcome to the repository for the **official LoneForge website** https://acciaiozero.github.io/LoneForge---website/index.html, the public-facing hub for the Solo RPG Engine project.
 
 This site serves as a **showcase**, **documentation portal**, and **entry point** for the main LoneForge engine, which is currently under active development.
 
