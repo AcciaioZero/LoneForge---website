@@ -895,7 +895,7 @@ footer nav a {
 
 .sg-side.sg-left{
     position: absolute;
-    top: 195%;
+    top: 215%;
     transform: translateY(-50%);
     opacity: 0.85;
     pointer-events: none; /* evita che interferiscano con i click */
@@ -903,7 +903,7 @@ footer nav a {
 
 .sg-side.sg-right{
     position: absolute;
-    top: 686%;
+    top: 700%;
     transform: translateY(-50%);
     pointer-events: none; /* evita che interferiscano con i click */
 }
